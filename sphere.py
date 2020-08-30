@@ -1,6 +1,6 @@
 #!/usr.bin/python3
 
-import pi from math
+from math import pi
 
 def area(radius):
-    return (math.pi() * 4 * (radius ** 2))
+    return (pi * 4 * (radius ** 2))
